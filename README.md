@@ -1,0 +1,2 @@
+# argocd-training
+Training ArgoCD
